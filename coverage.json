@@ -1,0 +1,22 @@
+{
+  "coverage": "100%",
+  "expectCount": 3,
+  "actualCount": 3,
+  "files": {
+    "src/_iterator.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/iterable.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/iterator.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    }
+  }
+}
