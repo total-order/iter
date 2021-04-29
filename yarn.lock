@@ -1111,12 +1111,12 @@
   resolved "https://registry.yarnpkg.com/@istanbuljs/schema/-/schema-0.1.3.tgz#e45e384e4b8ec16bce2fd903af78450f6bf7ec98"
   integrity sha512-ZXRY4jNvVgSVQ8DL3LTcakaAtXwTVUxE81hslsyD2AtoXW/wVob10HkOJ1X/pAlcI7D+2YoZKg5do8G/w6RYgA==
 
-"@iterable-iterator/iter@^0.0.2":
+"@iterable-iterator/iter@0.0.2":
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-0.0.2.tgz#7129988de2071ffb747632bd0190c0db579a5b69"
   integrity sha512-+q2BxI+awes71qm4M5zLXaJK7GUy1Tbt5K7YKTU3Yl8DgCdQxeHBbkAIxXAv49BoS2eLx5cLXHdpX6ybzvA2XQ==
 
-"@iterable-iterator/range@^0.0.1":
+"@iterable-iterator/range@0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-0.0.1.tgz#44516a8967f9b21546a76ae9c3dbc22e8d782c20"
   integrity sha512-fNhvqQLC6xMdbaPrvgDCuUQSHtv9IUDVVAZf2aK7hIEHK6ghd3r5FEX1IYHfDnnXv+zdBfUSr83fg6VB/6/0ug==
@@ -1252,7 +1252,7 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@total-order/primitive@^0.0.1":
+"@total-order/primitive@0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@total-order/primitive/-/primitive-0.0.1.tgz#080a1ce8bf03d581c10ea625b7e309f66f15de97"
   integrity sha512-z/zbq8YHVzm6BSDbDIFjZSwehEvVmBh2n8IWQGSgj1hsZMDClzZycWkZsFc9L7U3wfx5Wfg1Ex3MNQhuAwRSGg==
