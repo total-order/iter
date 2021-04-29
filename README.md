@@ -4,12 +4,19 @@
 Iterable and Iterator comparison functions for JavaScript.
 See [docs](https://total-order.github.io/iter/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
-
 > :warning: Depending on your environment, the code may require
 > `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+```js
+import {range} from '@iterable-iterator/range';
+import {increasing} from '@total-order/primitive';
+import {iterable} from '@total-order/iter';
+
+const order = iterable(increasing);
+
+order(range(Number.MAX_SAFE_INTEGER), range(10)) > 0; // true
+```
 
 [![License](https://img.shields.io/github/license/total-order/iter.svg)](https://raw.githubusercontent.com/total-order/iter/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@total-order/iter.svg)](https://www.npmjs.org/package/@total-order/iter)
