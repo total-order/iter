@@ -1423,15 +1423,15 @@
   resolved "https://registry.yarnpkg.com/@istanbuljs/schema/-/schema-0.1.3.tgz#e45e384e4b8ec16bce2fd903af78450f6bf7ec98"
   integrity sha512-ZXRY4jNvVgSVQ8DL3LTcakaAtXwTVUxE81hslsyD2AtoXW/wVob10HkOJ1X/pAlcI7D+2YoZKg5do8G/w6RYgA==
 
-"@iterable-iterator/iter@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-0.0.2.tgz#7129988de2071ffb747632bd0190c0db579a5b69"
-  integrity sha512-+q2BxI+awes71qm4M5zLXaJK7GUy1Tbt5K7YKTU3Yl8DgCdQxeHBbkAIxXAv49BoS2eLx5cLXHdpX6ybzvA2XQ==
-
-"@iterable-iterator/range@1.0.0":
+"@iterable-iterator/iter@1.0.0":
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-1.0.0.tgz#5b3255710e3e0d174a82e38024dc2af3c1aeee25"
-  integrity sha512-rFgziHtzWs/Zl1c5SfkAbUZzXvqvyeMtjsrwdkvXFQ1FCCXmzFjaMOKpr++wFuoV83XzZuiJ6lyHNEd3CSIyTg==
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-1.0.0.tgz#a399879bc4cb53b90edca7df6496cdf81b42b1c0"
+  integrity sha512-aZ2nhrbwH4iOXmVfWrN76sBELRNQVucUJWbq5kz6+x0JKAh22mhJ1CFExPi67bC6JwVjrdm2Wsed9xLG0AvClQ==
+
+"@iterable-iterator/range@2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-2.0.0.tgz#7cb75cecb09621821e4c710ac785ef4159d75216"
+  integrity sha512-FuGfd6oCyoZ+d47kJP9c492//qsNVOFIlIIe20aJA2jPQYjae+LhWkdS5h8c7z4zUC5jhWxamSlYBC7BIS2+TQ==
 
 "@js-library/commitlint-config@0.0.4":
   version "0.0.4"
@@ -1564,10 +1564,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@total-order/primitive@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@total-order/primitive/-/primitive-0.0.2.tgz#0c2925de9b80e0d43f1ffc1ec4e5ded7f69b6100"
-  integrity sha512-u0qradNHAUOn7pZGbcpz7xK/Wb8Ic0w5DtFWcNC+mcJ/QgURr+4ovQ0OkOj4XcK0/5lks78fMnQxOa5yOJERwg==
+"@total-order/primitive@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@total-order/primitive/-/primitive-1.0.0.tgz#e459288116d5a68b420920d4e7de5cd7689e5cb7"
+  integrity sha512-egH1HiytKU1T8osp0jgiKOm/fKmDeCK58I/CN2cnEvewPpmDa7PT8hoHpVrq8ru396GoP/nvSPg6YqD/gF9RNw==
 
 "@types/cacheable-request@^6.0.1":
   version "6.0.1"
