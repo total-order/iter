@@ -17,8 +17,7 @@ order(range(Number.MAX_SAFE_INTEGER), range(10)) > 0; // true
 [![License](https://img.shields.io/github/license/total-order/iter.svg)](https://raw.githubusercontent.com/total-order/iter/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@total-order/iter.svg)](https://www.npmjs.org/package/@total-order/iter)
 [![Tests](https://img.shields.io/github/workflow/status/total-order/iter/ci:test?event=push&label=tests)](https://github.com/total-order/iter/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/total-order/iter.svg)](https://david-dm.org/total-order/iter)
-[![Dev dependencies](https://img.shields.io/david/dev/total-order/iter.svg)](https://david-dm.org/total-order/iter?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/total-order/iter.svg)](https://github.com/total-order/iter/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/total-order/iter.svg)](https://github.com/total-order/iter/issues)
 [![Downloads](https://img.shields.io/npm/dm/@total-order/iter.svg)](https://www.npmjs.org/package/@total-order/iter)
 
