@@ -4,7 +4,7 @@ import {iter} from '@iterable-iterator/iter';
 import {range} from '@iterable-iterator/range';
 import {increasing} from '@total-order/primitive';
 
-import {iterable, iterator} from '../../src/index.js';
+import {iterable, iterator} from '#module';
 
 const repr = (x) => JSON.stringify(x);
 
